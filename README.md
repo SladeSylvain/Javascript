@@ -1,4 +1,3 @@
-# Ejercicios Básicos de JavaScript
 
 Ejercicios básicos para el aprendizaje del lenguaje JavaScript basado en [W3Schools](https://www.w3schools.com/js/default.asp).
 
@@ -14,7 +13,11 @@ Estos están separados por los siguientes módulos:
 
 En este módulo aprenderás sobre la declaración y uso de variables en JavaScript.
 
-[Ejercicios de Variables](./variables)
+[     - innerHTML
+     - document.write()
+     - windows.alert()
+     - alert()
+     - console.log()](JavascriptOutput.html)
 
 ## Funciones
 
